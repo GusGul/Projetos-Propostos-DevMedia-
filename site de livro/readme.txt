@@ -1,17 +1,17 @@
-# Projeto: Página para Divulgação de um Livro (Proposto pela DevMedia)
+Projeto: Página para Divulgação de um Livro (Proposto pela DevMedia)
 
-<h2>Proposta</h2>
-<p>Fazer uma página web que contém informações sobre um livro: A Era Artificial.</p>
-<p>A página está dividida em 4 seções:</p>
+Proposta
+Fazer uma página web que contém informações sobre um livro: A Era Artificial.
+A página está dividida em 4 seções:
 
-<h3>1ª Seção<h3>
-<p>Informações sobre o livro</p>
+1ª Seção
+Informações sobre o livro
 
-<h3>2ª Seção<h3>
-<p>Descrição da história</p>
+2ª Seção
+Descrição da história
 
-<h3>3ª Seção<h3>
-<p>Informações do autor</p>
+3ª Seção
+Informações do autor
 
-<h3>4ª Seção<h3>
-<p>Marketing do livro</p>
+4ª Seção
+Marketing do livro
