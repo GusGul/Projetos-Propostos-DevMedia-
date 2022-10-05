@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: 'Fredoka', sans-serif;
+}
+
+/* Seção topo */
+.secao-topo {
+    border-bottom: 1px solid #d5d5d5;
+}
+
+.largura-limitada {
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+.secao-topo p {
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+/* Seção com imagem de fundo */
+.secao-banner {
+    min-height: 500px;
+    background-image: url('img/capa.jpg');
+    background-size: cover;
+}
+
+.secao-banner .secao-banner-conteudo {
+    text-align: right;
+    padding: 50px 20px;
+}
+
+/* Seções de conteúdo */
+.secao-conteudo {
+    padding: 50px 20px;
+}
+
+.secao-imagens {
+    width: 100%;
+    display: flex;
+}
+
+.imagem {
+    width: 33%;
+    height: 180px;
+    margin-right: 3px;
+}
+
+.secao-conteudo span {
+    font-size: 20px;
+    padding-left: 10px;
+    border-left: 1px solid;
+}
+
+/* Seções de divisões com imagem de fundo */
+.secao-divisa {
+    background-image: url('img/fundo.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px 0px;
+}
+
+.secao-divisa h3 {
+    text-align: center;
+    background-color: #fff;
+    width: 200px;
+    margin: 0 auto;
+    font-size: 36px;
+    border-radius: 20px;
+}
