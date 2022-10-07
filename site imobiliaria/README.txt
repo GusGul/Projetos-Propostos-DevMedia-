@@ -1,7 +1,7 @@
 Objetivo do projeto proposto pelo curso de Front-End da plataforma DevMedia, imagens fornecidas pelos mesmos.
 Códigos feitos por mim (Gustavo Salgado Lima)
 
-PROJETO - SITE DE IMOBILIÁRIA
+# PROJETO - SITE DE IMOBILIÁRIA
 Criar uma página que apresenta informações de uma imobiliária, essa página está dividida em 6 seções.
 
 1ª seção - Logotipo e links
@@ -10,3 +10,14 @@ Criar uma página que apresenta informações de uma imobiliária, essa página 
 4ª seção - Serviços
 5ª seção - Corretores
 6ª seção - Contato
+
+# Tecnologias utilizadas
+##Front end
+- HTML 
+- CSS
+
+# Autor
+
+Gustavo Salgado Lima
+
+https://www.linkedin.com/in/gustavo-salgado-lima
