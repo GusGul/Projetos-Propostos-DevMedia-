@@ -1,17 +1,28 @@
-Projeto: Página para Divulgação de um Livro (Proposto pela DevMedia)
+# Projeto: Página para Divulgação de um Livro (Proposto pela DevMedia)
 
-Proposta
+# Proposta
 Fazer uma página web que contém informações sobre um livro: A Era Artificial.
 A página está dividida em 4 seções:
 
-1ª Seção
+## 1ª Seção
 Informações sobre o livro
 
-2ª Seção
+## 2ª Seção
 Descrição da história
 
-3ª Seção
+## 3ª Seção
 Informações do autor
 
-4ª Seção
+## 4ª Seção
 Marketing do livro
+
+# Tecnologias utilizadas
+##Front end
+- HTML 
+- CSS
+
+# Autor
+
+Gustavo Salgado Lima
+
+https://www.linkedin.com/in/gustavo-salgado-lima
