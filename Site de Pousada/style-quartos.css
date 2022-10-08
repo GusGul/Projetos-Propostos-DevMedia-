@@ -1,0 +1,31 @@
+.background-topo {
+    background: #6592c9 url('assets/img-fundo.jpg') no-repeat;
+    background-size: cover;
+    height: 30vh;
+}
+
+.galeria img {
+    width: 33%;
+    margin-right: 10px;
+}
+
+.galeria img:last-child {
+    margin-right: 0;
+}
+
+h3 {
+    text-align: center;
+}
+
+.container-lista {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+}
+
+.container-lista li {
+    width: 25%;
+    text-align: left;
+    margin-top: 15px;
+}
