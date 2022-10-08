@@ -1,3 +1,5 @@
+* { box-sizing: border-box; }
+
 .background-topo {
     background: #6592c9 url('assets/img-fundo.jpg') no-repeat;
     background-size: cover;
@@ -28,4 +30,16 @@ h3 {
     width: 25%;
     text-align: left;
     margin-top: 15px;
+}
+
+@media(max-width: 850px) {
+    .container-lista li {
+        width: 50%;
+    }
+}
+
+@media(max-width: 450px) {
+    .container-lista li {
+        width: 100%;
+    }
 }
