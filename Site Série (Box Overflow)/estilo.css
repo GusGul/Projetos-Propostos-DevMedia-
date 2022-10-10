@@ -37,6 +37,11 @@ body {
     margin: 0 6px;
 }
 
+.topo a:hover {
+    background-color: #270b64;
+    color: #fff;
+}
+
 .imagem-capa {
     width: 100%;
 }
